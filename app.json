@@ -11,9 +11,9 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Paste here session ID that you have scanned",
+      "description": "Sarkarmd$Ken1N2LQ",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "Enter 'true' for public mode, 'no' for private mode",
@@ -23,12 +23,12 @@
     "OWNER_NUMBER": {
       "description": "Enter the owner's phone number with country code (e.g., +1234567890)",
       "required": true,
-      "value": "+923000000000"
+      "value": "+263710781795"
     },
     "OWNER_NAME": {
       "description": "Enter the owner's name",
       "required": true,
-      "value": "Bandaheali"
+      "value": "𝐷𝐵𝑌☆"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter 'true' for autoview status, 'no' to disable",
